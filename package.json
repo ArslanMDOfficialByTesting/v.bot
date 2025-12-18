@@ -24,7 +24,7 @@
     "@sl-code-lords/photooxy": "^1.0.1",
     "@sl-code-lords/si-subdl": "^1.1.1",
     "@sl-code-lords/text-pro-me": "^1.0.0",
-    "@whiskeysockets/baileys": "github:webscrape2003/VAJIRA-BAILEY",
+    "@whiskeysockets/baileys": "v7.0.0-rc.9",
     "@xct007/frieren-scraper": "^0.0.2",
     "api-dylux": "latest",
     "async-g-i-s": "^1.4.0",
@@ -130,7 +130,7 @@
     "tmp": "^0.2.3"
   },
   "overrides": {
-    "jimp": "^0.22.12",
+    "jimp": "^1.6.0",
     "sharp": "^0.34.4"
   }
 }
